@@ -61,7 +61,7 @@ google_analytics:
 # Available options:
 #
 #     light  - Use the light color scheme
-     dark   - Use the dark color scheme
+#     dark   - Use the dark color scheme
 #
 theme_mode: # [light|dark]
 
@@ -99,7 +99,7 @@ comments:
     reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
-assets:
+assets: https://avatars.githubusercontent.com/iamaub
   self_host:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
