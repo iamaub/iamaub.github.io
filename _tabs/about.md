@@ -22,4 +22,4 @@ Digital Forensics & Incident Response
 Governance, Risk, and Compliance
 Cloud Security
 
-I'm inspired by challenges and motivated by a genuine passion for making the digital world more secure. Let's connect and explore opportunities to collaborate on innovative projects.
+I'm inspired by challenges and motivated by a genuine passion for making the digital world more secure. Let's connect and explore opportunities to collaborate on innovative projects...
