@@ -16,7 +16,7 @@ timezone:
 
 title: Cyber Avenger  # the main title
 
-tagline: Primarily maintained by [Bruneck A.] (https://github.com/iamaub), this blog is about cybersecurity and includes resources related to Pentesting, ethical hacking, CTFs, bug bounties, digital forensics and incident response (DFIR), and more. # it will display as the sub-title
+tagline: Maintained by Bruneck, this blog is about cybersecurity and includes resources related to pentesting, ethical hacking, CTFs, bug bounties, digital forensics and incident response (DFIR), etc. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog about cybersecurity that includes thousands of resources related to Pentesting, ethical hacking, CTFs, bug bounties, digital forensics and incident response (DFIR), and more.
