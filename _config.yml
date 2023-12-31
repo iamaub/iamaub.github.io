@@ -99,7 +99,7 @@ comments:
     reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
-assets: https://avatars.githubusercontent.com/u/60816549?s=400&u=453ca860ebbf91ada266fe888ae993c15b187ab9&v=4
+assets: 'https://avatars.githubusercontent.com/u/60816549?s=400&u=453ca860ebbf91ada266fe888ae993c15b187ab9&v=4'
   self_host:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
