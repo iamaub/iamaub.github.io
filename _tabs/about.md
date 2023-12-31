@@ -3,10 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 Hello World :) I'm Bruneck. I am 24 year-old Cybersecurity Engineer. Passionate about technology and driven by an insatiable curiosity, I believe that there are no limits to what i can learn. 
 
 Over the years, I've cultivated a keen interest in ethical hacking( I’m not hacker tho , I’m a security professional).
