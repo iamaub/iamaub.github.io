@@ -1,3 +1,15 @@
+---
+#layout: post
+published: true
+title: bank HTB Writeup
+categories:
+- Writeup
+tags:
+- htb
+- writeup
+- 
+date: 2023-12-31 09:30 +0000
+---
 # 10.10.10.29(bank)
 
 ---
