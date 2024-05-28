@@ -1,7 +1,7 @@
 ---
 #layout: post
 published: true
-title: Jump into bug bounty
+title: Essential Bug bounty Cheat Sheets and resources
 categories:
 - Awesome ressources
 tags:
