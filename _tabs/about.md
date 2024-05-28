@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 Bruneck (he/him) is a  24 year-old Self-taught ethical hacker and security Engineer who graduated from [CY Tech](https://cytech.cyu.fr) 
-He has two years' professional experience and + 3 years' experience as a self-taught learner in the cyber security industry. 
+He has 2 years' professional experience and + 3 years' experience as a self-taught learner in the cyber security industry. 
 
 His main areas of interest/focus are : 
 - web application security 
