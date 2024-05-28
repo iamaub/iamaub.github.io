@@ -23,8 +23,7 @@ Theory is important, but practice is where you really start to learn. PortSwigge
 
 - [Guide to learn hacking](https://www.youtube.com/watch?v=2TofunAI6fU) is a fantastic introductory guide for anyone new to the world of hacking. The video breaks down complex concepts into digestible pieces, making it easier for beginners to understand the fundamentals.
 - [Finding your first bug: bounty hunting tips from the Burp Suite community](https://portswigger.net/blog/finding-your-first-bug-bounty-hunting-tips-from-the-burp-suite-community) : Learning from experienced bug bounty hunters can significantly shorten your learning curve. This article from the Burp Suite community shares practical tips and strategies for finding your first bug, straight from the pros.
-   
-- [Nahamsec's Twitch](https://www.twitch.tv/nahamsec)
+
 - In these interviews,  [Nahamsec ](https://www.youtube.com/c/Nahamsec) sits down with some of the top bug bounty hunters in the industry. They discuss their journeys, techniques, and tips for success, offering a wealth of knowledge and inspiration.
 - This [Nahamsec's beginner repo](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) is a curated list of resources for beginner bug bounty hunters. It includes everything from learning materials to tools and techniques, making it an essential resource for newcomers.  
 - [Stök](https://www.youtube.com/c/STOKfredrik) 's YouTube channel is packed with high-quality content on hacking and bug bounty hunting. His videos are not only educational but also entertaining, making the learning process more enjoyable.
