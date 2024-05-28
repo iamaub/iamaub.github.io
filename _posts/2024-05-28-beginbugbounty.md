@@ -19,7 +19,6 @@ The ever-popular, ever-popular web acdemie from  [portswigger](https://portswigg
 
 - [Bugcrowd University - Broken access Control)](https://www.youtube.com/watch?v=94-tlOCApOc&list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-&index=5) (Top 1% student ranking) 
 - [Bugcrowd University - Cross Site Scripting (XSS)](https://www.youtube.com/watch?v=gkMl1suyj3M&list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-&index=5)
-- [creedly](https://www.credly.com/users/bruneck-ulrich-agomadje)
 
 
 
