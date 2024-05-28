@@ -8,6 +8,7 @@ tags:
 - webappsecurity
 - owasp
 - portswigger
+- bugbounty
 - pentest
 - cybersecurity
 date: 2024-05-28 09:30 +0000
