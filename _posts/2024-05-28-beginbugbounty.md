@@ -16,7 +16,9 @@ date: 2024-05-28 09:30 +0000
 
 I've recently had the urge to start looking for bugs. Because of the sheer number of resources available today, it's easy to get lost. So I've decided to post here some links that I find interesting and that help me in this adventure in which I'm also a beginner. 
 
-Theory is important, but practice is where you really start to learn. PortSwigger’s web security academy offers a range of labs and exercises that allow you to practice your skills in a safe and controlled environment. The ever-popular, ever-popular web acdemie from  [portswigger](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice)
+Theory is important, but practice is where you really start to learn. 
+
+- [PortSwigger](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice)’s web security academy offers a range of labs and exercises that allow you to practice your skills in a safe and controlled environment.   
 
 - [Bugcrowd University - Broken access Control)](https://www.youtube.com/watch?v=94-tlOCApOc&list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-&index=5) 
 - [Bugcrowd University - Cross Site Scripting (XSS)](https://www.youtube.com/watch?v=gkMl1suyj3M&list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-&index=5)
@@ -37,5 +39,6 @@ Theory is important, but practice is where you really start to learn. PortSwigge
     - also a blog on subdomain takeovers [link](https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html)
   - [clos2100 on getting started without a technical background](https://twitter.com/pirateducky/status/1300566000665014275)
 - [hacker101 videos](https://www.hacker101.com/videos)
+- [infosecsanyam](https://infosecwriteups.com/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65)
 
 I hope you find these resources as helpful as I have. Happy bug hunting! 
