@@ -12,6 +12,15 @@ date: 2024-06-08 09:30 +0000
 ---
 
 You can find the most up-to-date list of post-exploit enumeration tricks here in this generic writeup template written by [0xBEN](https://github.com/0xBEN)
+You can download the markdown file and get to work
+Fill out the sections with the indicated steps
+Code fences, formating, whitespace, etc. have already been added for you
+Suggested commands and documentation steps are available in the template
+You can remove sections from the template as needed
+For example, not using persistence on the target? Remove the section.
+Working on a single target and not worried about routes / ping sweeps? Remove the section(s).
+
+
 
 # **Nmap Results**
 ```text
