@@ -1,3 +1,18 @@
+---
+#layout: post
+published: true
+title: Generic-Writeup-Template.
+categories:
+- Awesome ressources
+tags:
+- ctf
+- pentest
+- cybersecurity
+date: 2024-06-08 09:30 +0000
+---
+
+You can find the most up-to-date list of post-exploit enumeration tricks here in this generic writeup template written by [0xBEN](https://github.com/0xBEN)
+
 # **Nmap Results**
 ```text
 Nmap output here
