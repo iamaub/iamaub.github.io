@@ -18,6 +18,12 @@ I've recently had the urge to start looking for bugs. Because of the sheer numbe
 
 Theory is important, but practice is where you really start to learn. 
 
+- Here is a really good [blog](https://forum.bugcrowd.com/t/some-information-for-the-people-getting-started-in-bug-bounties/8464) from bugcrowd about some information for the people getting started in bug bounties. 
+
+- [How do you approach a target?](https://forum.bugcrowd.com/t/how-do-you-approach-a-target/293)
+
+- [Finding your first bug: bounty hunting tips from the Burp Suite community](https://portswigger.net/blog/finding-your-first-bug-bounty-hunting-tips-from-the-burp-suite-community) 
+
 - [PortSwigger](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice)’s web security academy offers a range of labs and exercises that allow you to practice your skills in a safe and controlled environment.   
 
 - [Bugcrowd University - Broken access Control)](https://www.youtube.com/watch?v=94-tlOCApOc&list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-&index=5) 
@@ -32,7 +38,8 @@ Theory is important, but practice is where you really start to learn.
 - [Stök](https://www.youtube.com/c/STOKfredrik) 's YouTube channel is packed with high-quality content on hacking and bug bounty hunting. His videos are not only educational but also entertaining, making the learning process more enjoyable.
 - [InsiderPhD](https://www.youtube.com/c/InsiderPhD)
 - [Series for new bug hunters](https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw)
-- [Jhaddix](https://www.youtube.com/c/jhaddix)
+
+
 - Posts from Hacker101 members on how to get started hacking
   - [zonduu](https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f)
   - [p4nda](https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html)
