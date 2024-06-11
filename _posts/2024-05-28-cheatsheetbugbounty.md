@@ -21,6 +21,7 @@ Each link below leads to a comprehensive guide created by experts in the field, 
 ### XSS
 - [XSS Cheat Sheet by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md)
 - [XSS Payload List by Ismail Tasdelen](https://github.com/ismailtasdelen/xss-payload-list)
+- [Cross Site Scripting et Phishing](https://repository.root-me.org/Exploitation%20-%20Web/FR%20-%20XSS%20et%20phishing.pdf?)
 
 ### SQLi
 - [SQLi Cheat Sheet by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md)
@@ -46,6 +47,7 @@ Each link below leads to a comprehensive guide created by experts in the field, 
 ### LFI
 - [LFI Cheat Sheet by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/lfi.md)
 - [PayloadsAllTheThings File Inclusion](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion)
+- [lfi-web-application-penetration-testing](https://medium.com/@Aptive/local-file-inclusion-lfi-web-application-penetration-testing-cc9dc8dd3601)
 
 ### XXE
 - [XXE Cheat Sheet by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xxe.md)
