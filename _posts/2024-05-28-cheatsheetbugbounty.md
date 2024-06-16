@@ -25,6 +25,7 @@ Each link below leads to a comprehensive guide created by experts in the field, 
 
 ### SQLi
 - [SQLi Cheat Sheet by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md)
+- [How to Bypass SQL Injection Filter Manually](https://www.hackingarticles.in/bypass-filter-sql-injection-manually/)
 
 ### SSRF
 - [SSRF Cheat Sheet by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/ssrf.md)
